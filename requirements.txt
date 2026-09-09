@@ -1,4 +1,4 @@
 streamlit
 requests
 pytest
-https
+httpx
