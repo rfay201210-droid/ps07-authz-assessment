@@ -13,7 +13,7 @@ Focus: authentication boundaries, session handling, authorization, and API parit
 
 ## 🛠️ Setup
 ```bash
-git clone https://github.com/<your-username>/ps07-authz-assessment.git
+git clone https://github.com/rfay201210-droid/ps07-authz-assessment
 cd ps07-authz-assessment
 pip install -r requirements.txt
 streamlit run streamlit_app.py
